@@ -1,0 +1,1 @@
+-e git+git@github.com:neumark/unimodel.git@master#egg=unimodel
